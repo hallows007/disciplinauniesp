@@ -1,0 +1,14 @@
+Questão 6
+Basta copiar o link pela própria url ou no botão verde chamado "CODE"
+
+Questão 7
+É preciso ir as configurações ir até a parte Danger Zone e alterar a visibilidade
+
+Questão 8 
+É preciso ir as configurações ir até a parte Danger Zone e apertar o botão "delete this repository"
+
+Questão 9
+Após criar os arquivos é necessario clicar no botão "add file" arrastar os arquivos
+
+Questão 10
+Uma das maneiras é apertando o botão "CODE" e clicar em Download zim
